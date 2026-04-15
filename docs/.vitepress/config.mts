@@ -70,6 +70,7 @@ export default defineConfig({
         ],
       },
       { text: '公告', link: '/notice/20260415-display-bug' },
+      { text: '交流群', link: '/contact' },
     ],
 
     sidebar: {

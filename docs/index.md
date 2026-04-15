@@ -12,6 +12,9 @@ hero:
     - theme: alt
       text: 常见问题
       link: /faq
+    - theme: alt
+      text: 加入交流群
+      link: /contact
 
 features:
   - title: 按量计费版
