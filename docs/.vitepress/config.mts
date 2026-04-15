@@ -26,6 +26,7 @@ function sidebarMain() {
         { text: '如何切换账号', link: '/guide/switch-account' },
         { text: 'Taking longer 解决', link: '/guide/taking-longer' },
         { text: 'Model not available', link: '/guide/model-not-available' },
+        { text: 'No models available', link: '/guide/no-models-available' },
       ],
     },
     {
@@ -67,6 +68,7 @@ export default defineConfig({
           { text: '如何切换账号', link: '/guide/switch-account' },
           { text: 'Taking longer 解决', link: '/guide/taking-longer' },
           { text: 'Model not available', link: '/guide/model-not-available' },
+        { text: 'No models available', link: '/guide/no-models-available' },
         ],
       },
       { text: '公告', link: '/notice/20260415-display-bug' },
