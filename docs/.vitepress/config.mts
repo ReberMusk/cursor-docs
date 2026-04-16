@@ -71,7 +71,7 @@ export default defineConfig({
         { text: 'No models available', link: '/guide/no-models-available' },
         ],
       },
-      { text: '公告', link: '/notice/20260415-display-bug' },
+      { text: '公告', link: '/notice/20260417-opus-4-7' },
       { text: '交流群', link: '/contact' },
     ],
 
@@ -83,7 +83,8 @@ export default defineConfig({
         {
           text: '公告通知',
           items: [
-            { text: '[2026-04-15] 按次计费显示异常', link: '/notice/20260415-display-bug' },
+            { text: '[2026-04-17] Opus 4.7 发布，按次版暂不支持', link: '/notice/20260417-opus-4-7' },
+            { text: '[2026-04-15] 按次计费显示异常（已修复）', link: '/notice/20260415-display-bug' },
           ],
         },
       ],
